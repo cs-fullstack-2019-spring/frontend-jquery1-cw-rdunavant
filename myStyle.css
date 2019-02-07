@@ -78,3 +78,17 @@ h1, h2, h3 {
 .clearfix {
     *zoom: 1;
 }
+p{
+    margin: 8px;
+    font-size: 16px;
+}
+.selected{
+    color: red;
+}
+p{
+    margin: 8px;
+    font-size: 16px;
+
+.selected2{
+    color: blue;
+}
